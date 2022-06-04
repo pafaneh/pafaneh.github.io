@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.quote {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  
+
+    
+}
+.portfolio-img {
+    width: 80%;
+}
